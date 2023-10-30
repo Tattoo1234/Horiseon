@@ -4,7 +4,7 @@ In this project the goal was to refactor given code so that the HTML reads seman
 ## Installation
 N/A
 ## Usage
-screenshot
+assets/images/SiteScreenshot.jpg
 URL
 
 ## Credits
