@@ -5,7 +5,7 @@ In this project the goal was to refactor given code so that the HTML reads seman
 N/A
 ## Usage
 ![image of Horiseon Webpage](assets/images/SiteScreenshot.jpg)
-[URL](https://tattoo1234.github.io/Horiseon/)https://tattoo1234.github.io/Horiseon/
+(https://tattoo1234.github.io/Horiseon/)https://tattoo1234.github.io/Horiseon/
 
 ## Credits
 N/A
